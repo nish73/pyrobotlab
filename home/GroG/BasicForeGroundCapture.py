@@ -14,7 +14,7 @@ sleep(4)
 
 detector.search()
 
-sleep(20)
+sleep(20) // by reducing the time we can get proper contours
 
 opencv.stopCapture()
  
